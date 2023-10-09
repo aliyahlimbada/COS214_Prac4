@@ -1,4 +1,4 @@
-
+// Adapter.cpp last minute fixes
 #include <iostream>
 #include <string>
 #include <vector>
